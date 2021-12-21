@@ -1,0 +1,2 @@
+# Extraterrestrial
+As an Open Source Intelligence analyst, you have been tasked with locating Activia Productions' project manager and recruiter, Khalil Askerman, who disappeared shortly after leaving for a company sponsored trip. According to family and friends, Khalil was a loveable guy who enjoyed the little things in life like going to Waffle House at 2 A.M after a night of wearing out the company credit card with clients on scented dry erase markers and LonelyFans. Can you assist Activia Productions in finding their missing project manager?
