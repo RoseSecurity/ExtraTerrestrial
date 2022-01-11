@@ -20,7 +20,7 @@ Can you use your analytic skills to find Khalil Askerman?
 
 ## Objective:
 
-Learn new techniques to conduct a successful open source investigation, enumerating publically available websites and social media platforms to identify missing persons.
+Learn new techniques to conduct a successful open source investigation, enumerating publicly available websites and social media platforms to identify missing persons.
 
 Difficulty: 
 
