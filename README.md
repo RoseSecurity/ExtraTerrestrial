@@ -39,6 +39,13 @@ Author(s):
 ```
 Kleptocratic and RoseSecurity
 ```
+
+## Resources:
+
+```
+https://www.osintdojo.com/resources/
+```
+
 ## Walkthrough:
 
 Walkthrough.zip password: ```hackthebox```
