@@ -44,6 +44,7 @@ Kleptocratic and RoseSecurity
 
 ```
 https://www.osintdojo.com/resources/
+https://epieos.com/
 ```
 
 ## Walkthrough:
